@@ -51,8 +51,8 @@ A Dash/Plotly web app that lets you explore the data yourself.
 
 ```
 birds-of-nl/
-├── Muhammed_Luckam_infographic_Project.ipynb   # Static infographic notebook
-├── Muhammed_Luckman_dashboard_Project.ipynb    # Interactive dashboard notebook
+├── Birds_of_NL_infographic_Project.ipynb   # Static infographic notebook
+├── Birds_of_NL_dashboard_Project.ipynb    # Interactive dashboard notebook
 ├── birds.csv                                    # Source dataset (eBird NL records)
 ├── infographic_output.png                       # Final infographic export
 └── README.md
