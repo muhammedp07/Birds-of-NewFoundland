@@ -68,10 +68,10 @@ pip install pandas numpy matplotlib plotly dash
 ```
 
 **Infographic**
-Open `Muhammed_Luckam_infographic_Project.ipynb` in Jupyter and run all cells. The infographic will render and save as `infographic_output.png`.
+Open `Birds_of_NL_infographic_Project.ipynb` in Jupyter and run all cells. The infographic will render and save as `infographic_output.png`.
 
 **Dashboard**
-Open `Muhammed_Luckman_dashboard_Project.ipynb` in Jupyter, run all cells, then navigate to `http://127.0.0.1:8050` in your browser.
+Open `Birds_of_NL_dashboard_Project.ipynb` in Jupyter, run all cells, then navigate to `http://127.0.0.1:8050` in your browser.
 
 > Make sure `birds.csv` is in the same directory as both notebooks before running.
 
@@ -80,7 +80,5 @@ Open `Muhammed_Luckman_dashboard_Project.ipynb` in Jupyter, run all cells, then 
 ## 👥 Authors
 
 **Muhammed Patel** — [LinkedIn](https://linkedin.com/in/muhammedpatel007) | [GitHub](https://github.com/muhammedp07)
-
-**Luckman Qasim** — Memorial University of Newfoundland
 
 *Memorial University of Newfoundland — Computer Science, 2026*
